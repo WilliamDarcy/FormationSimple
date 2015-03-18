@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+
+#titre
+{
+	background-color: blue;
+	height: 120px;
+}
+
+#formConnexion
+{
+	width: 200px;
+	margin:auto;
+}
+
+#principal
+{
+	float: left;
+	width: 80%;
+}
+
+#sideBar
+{
+	float: left;
+	width: 20%;
+}
+
+.date
+{
+	text-align: center; 
+	padding: 5px;
+}
+
+td
+{
+	padding-left: 20px;
+	padding-right: 20px;
+	
+}
+.duree
+{
+	text-align: center; 
+	padding: 5px;
+	
+}
+
+ul
+{
+	list-style-type: none;
+}
