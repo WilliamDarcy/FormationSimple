@@ -14,7 +14,7 @@ modifier les tables et synchroniser ton schéma pour être toujours à jour avec
 En quelques minutes tu peux comprendre par toi-même :). Tu peux même réaliser le schéma entité-association tout seul! C'est un exercice intéressant.
 </p>
 
-# Le répertoire dal.
+# Le répertoire dal
 Il contient toutes les fonctions pour s'interfacer avec la base de données. Toutes les commandes SQL sont situées dans ce répertoire. Si tu as une nouvelle requête à créer tu peux rajouter une fonction dans ce répertoire :)
 
 # Le répertoire lib
