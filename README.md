@@ -27,5 +27,6 @@ Il contient toutes les différentes parties qui composent une page (header, foot
 <p>Les vues sont situées à la racine. Chaque vue doit commencer par la fonction EstConnecte().</p>
 
 
-
+# Le répertoire test
+Il contient quelques tests unitaires, il faut installer PHPUnit pour les faire fonctionner.
 
