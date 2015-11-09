@@ -5,7 +5,7 @@ include 'dal/dbFormation.php';
 
 EstConnecte();
 
-
+//Creation d'un PDF
 $formations = RechercheToutesFormations(ObtenirIdEnCours());
 
 $html ='<html><body><meta charset=utf-8>';
